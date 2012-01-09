@@ -51,6 +51,20 @@ public class Students_v01
 
 
 
+class Student
+{
+    String name;
+    int id;
+    double a1, a2;
+    int labMark;
+}
+
+
+
+
+
+
+
 
 
 
