@@ -11,11 +11,13 @@ public class Students_v01
         printArray( ids, names, GPAs );
     }
     
+    
     public static String [] fillNames()
     {
         String [] names = {"Frodo", "Gandalf", "Samwise", "Bilbo", "Eragon", "Kip", "Gollum","Legolas"};
         return names;
     }
+    
     
     public static int[] getIds(int numIds)
     {
